@@ -1,4 +1,4 @@
-name: Nure Portfolio Deployment with CI/CD
+name: Redwan Portfolio Deployment with CI/CD
 
 on:
   push:
